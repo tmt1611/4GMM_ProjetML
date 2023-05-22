@@ -28,7 +28,7 @@ De plus, vous rendrez  deux notebooks Jupyter, un en R et un en Python, incluant
 
 **N’oubliez pas de commenter votre code.**
 
-###Link colab pour chaque personne: 
+### Link colab pour chaque personne: 
 
 MAIN (avec analyses preliminaires et premiers variables) : 
 
