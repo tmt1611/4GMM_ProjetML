@@ -12,11 +12,17 @@ stats descriptives basiques : Tue, correction : Khoi et Thang
 Réponse aux analyses exploratoires des données : Khoi (attention : l’importance des variables sont pour interpréter pour les  paragraphes suivantes)
 
 un modèle de régression logistique avec sélection de variables avec/sans pénalisation : Thai 
+
 un modèle de régression logistique sans sélection de variables avec/sans pénalisation : Thai
+
 un SVM : Thang 
+
 un arbre optimal : khoi 
+
 une forêt aléatoire : khoi 
+
 boosting : Thang  
+
 réseaux de neurones : Thai  
 
 Comparer les modèles : Tue  (déjà code de base cf Thang) 
